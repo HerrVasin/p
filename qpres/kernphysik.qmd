@@ -189,22 +189,17 @@ Formel: `N = A - Z`.
 
 ---
 
-## Aufgabe: Halbwertszeit {.smaller}
+## Aufgabe: Halbwertszeit 
 
 1. **Erkläre, was die Halbwertszeit eines radioaktiven Nuklids aussagt. **   
     - nutze Buch S. 35
     - was passiert bei einem Zerfall mit der Menge des radioaktiven Nuklids?
 1. **Berechne, wie viel von einem *160 g Präparat* nach *4 Halbwertszeiten* noch übrig ist.**  
-1. **Zeichne den Zerfallsgraph. Trage dazu die Wertepaare, die du zuvor berechnet hast ein und verbinde sie. Denk dran, dass eine Exponentialfunktion keine Gerade ist.**  
+1. **Zeichne den Zerfallsgraphen.**
+
+[$N(t) = N_0 \cdot \left(\frac{1}{2}\right)^{\frac{t}{T_{1/2}}}$]{.fragment}
 
 
-[$N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$]{.fragment}
-
-::: {.incremental}
-- $(t = 0): N(t) = N_0$   
-- $(t = T_{1/2}): N(t) = N_0/2$  
-- $(t = 2⋅T_{1/2}): N(t) = N_0/4$  
-:::
 ---
 
 
@@ -235,56 +230,61 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 
 
-## Aufgabe: Strahlungseigenschaften 
+## Aufgabe: Strahlungseigenschaften {.smaller}
 
-- **Beschreibe die Eigenschaften von Alpha- und Beta-Teilchen**. 
-  - Nutze Buch S. 36
-  - Welche Ladung tragen sie?  
-  - Wie reagieren sie auf Magnetfelder?  
-- **Erkläre den Begriff ionisierende Strahlung**.  
-  - Nutze Buch S. 36
-  - Was ist Ionisation?
+1. **Erkläre warum radioaktive Strahlung gefährlich für Menschen ist**
+    - Nutze Buch Seite 37
+    - Was passiert mit Körperzellen, wenn sie von radioaktiver Strahlung getroffen werden?
+    - Was kann der Körper unternehmen, wenn Schäden durch radioaktive Strahlung entstehen?
+1. **Nenne welche Folgen zu viel Strahlung für den Menschen haben kann**
+    - S. 37
+1. **Beschreibe die drei wichtigsten Schutzmaßnahmen gegen Strahlung**
+    - S. 37
+    
 
 ---
 
-## Aufgabe: Strahlenschutz 
+## Aufgabe: Strahlenschutz {.smaller}
 
-- **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle**:
-  - Nutze Buch S. 36 und 37
+
+1. **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle:** 
+    - Nutze Buch S. 36 
 
 | Strahlungsart | Eindringtiefe / Reichweite | Geeignete Abschirmung |
 |---------------|----------------------------|------------------------|
 | Alpha         |                            |                        |
-| Beta          |                            |                        |
-| Gamma         |                            |                        |
+| Beta          | wenige mm/wenige Meter     |                        |
+| Gamma         | extrem/100+ Meter          |schweres Metall (Blei)  |
 
 ---
 
 ## Künstliche Kernnumwandlung
 
-1. **Erkläre künstliche Kernumwandlungen **
-    - Nutze Buch S.42
+1. **Erkläre künstliche Kernspaltung **
+    - Nutze Buch S.42 und 43
+    - Beachte bei den Beispielen die Zwischenprodukte
+1. **Erkläre die Kettenreaktion bei Spaltung von Uran-235**
 1. **Vergleiche Kernfusion und Kernspaltung**
     - Nutze Buch S. 43
     - Wo finden die Prozesse jeweils statt?
     - Wie unterscheiden sich die Produkte?
 
+---
 
-## Aufgabe: Natürliche Strahlung  {.smaller}
+## Anwendung radioaktiver Nuklide
 
-- Vergleiche **terrestrische** und **kosmische Strahlung**.
-  - Nutze das Buch S. 30
-  
-| Kriterium        | Terrestrische Strahlung | Kosmische Strahlung |
-|------------------|-------------------------|---------------------|
-| Herkunft         |                         |                     |
-| Art der Strahlung|                         |                     |
-| Beispiel         |                         |                     |
-
-- Überlege, ob es sich um Kernstrahlung handelt oder nicht.
+1. **Erläutere eine Anwendung von radioaktiven Nukliden**
+    - Nutze Buch S. 46
+1. **Nenne 2 weitere Anwendungsgebiete und Anwendungen**
 
 ---
 
 ## Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.
-- Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, Isotop, Halbwertszeit
+- Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit
 
+
+---
+## Gleichungen
+
+- $A=Z+N$
+- $N(t) = N_0 \cdot \left(\frac{1}{2}\right)^{\frac{t}{T_{1/2}}}$
