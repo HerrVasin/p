@@ -1,0 +1,290 @@
+---
+title: "Kernphysik"
+format: 
+  revealjs:
+    theme: simple
+    transition: slide
+    background-transition: fade
+    highlight-style: github
+    code-line-numbers: false
+    slide-number: false
+    chalkboard: true
+    interactive: true
+lang: de
+
+---
+
+
+## Lernziele dieser Einheit: danach sind SuS im Stande zu: {.smaller} 
+
+
+- **definieren**, was Isotope sind
+- **bestimmen**, Protonenzahl, Massenzahl und Neutronenzahl aus der Isotopenschreibweise.  
+- **berechnen**, wie sich Zerfallsprozesse (z. B. α- und β-Zerfall) auf die Kernladungs- und Massenzahl auswirken.  
+- **erläutern**, die Bedeutung und das Vorgehen bei der Berechnung von Halbwertszeiten.  
+- **beschreiben** die Grundprinzipien der kün und deren Bedeutung in Natur und Technik.  
+- **erklären**, wie künstliche Zerfallsprozesse herbeigeführt und genutzt werden
+
+
+---
+
+## Rückblick: Chemie {background-color="aquamarine"}
+
+::: {.incremental} 
+
+- Wir kennen bereits die Elemente aus der Chemie  
+- Die Chemie beschäftigt sich vor allem mit den Elektronen, da sie die chemischen Eigenschaften der Elemente festlegen
+- Was können wir mit den Informationen aus dem Periodensystem der Elemente über die Elemente aussagen? 
+- Jedes Element hat eine Ordnungszahl und eine Atommasse
+  - Diese Angaben sind für uns gleich relevant
+
+:::
+
+---
+
+## Aufgabe: Aufbau eines Atoms 
+
+- Verschaff dir einen Überblick über das Thema Kernphysik ab S. 29 ff
+- Beschreibe anhand der Abbildungen im Buch den Aufbau eines Atoms.
+  - Nutze das Buch S. 32
+  - Beschriebe die Größenverhältnisse
+  - Welche Teilchen befinden sich in der Atomhülle, welche im Atomkern?  
+  - Welche Ladung haben diese Teilchen?  
+  - Warum ist ein Atom nach außen elektrisch neutral?  
+
+
+---
+
+
+
+
+## Aufgabe: Isotope und Zahlenwerte 
+
+- Definiere die Begriffe **Massenzahl (A)** und **Kernladungszahl (Z)**.
+  - Nutze das Buch S. 32
+  - Vergiss nicht die Gleichung für die Massenzahl anzugeben
+
+- Erkläre, was **Isotope** sind.  
+  - Nutze das Buch S. 32
+  - Im Tafelwerk auf S. 67 sind viele Isotope zu sehen
+- Sind Isotope chemisch identisch? Begründe.  
+
+---
+
+## Übung: Neutronenzahl
+
+- Berechne die Neutronenzahl für:
+  - Uran-238 (²³⁸U, Z=92)  
+  - Kohlenstoff-14 (¹⁴C, Z=6) 
+  
+**Hinweis:**  
+Formel: `N = A - Z`.
+
+::: {.incremental}
+
+- Uran-238 : N=238-92
+- Kohlenstoff-14 : N=14-6
+:::
+---
+
+## Übung: Elemente in der PSE {.smaller background-image='../pics/PSE.png'}
+
+::: columns
+:::: column
+
+- Schau die folgenden Elemente im Periodensystem der Elemente nach und schreibe Sie in der Isotopenschreibweise auf. Berechne die Neutronenzahl 'N'  
+- Hinweis: Die Atommasse bzw. das Atomgewicht entsprich der Massenzahl. Zur Angabe der Massenzahl runden wir die Masse zu einer ganzen Zahl. 
+
+- Stickstoff
+
+- Sauerstoff
+
+- Natrium
+
+- Magnesium
+
+- Chlor
+
+- Eisen
+
+::::
+:::
+---
+
+## Übung: Neutronenzahl berechnen. Nutze die Formel N = A − Z {.smaller}
+
+::: columns
+:::: column  
+
+- ${}^{3}_{1}\text{H}$  [N = 3 − 1 = 2]{.fragment}
+- ${}^{4}_{2}\text{He}$  [N = 4 − 2 = 2]{.fragment}  
+- ${}^{83}_{36}\text{Kr}$  [N = 83 − 36 = 47]{.fragment}  
+- ${}^{27}_{13}\text{Al}$  [N = 27 − 13 = 14]{.fragment}  
+- ${}^{32}_{16}\text{S}$  [N = 32 − 16 = 16]{.fragment}  
+- ${}^{40}_{20}\text{Ca}$  [N = 40 − 20 = 20]{.fragment}  
+- ${}^{63}_{29}\text{Cu}$  [N = 63 − 29 = 34]{.fragment}  
+- ${}^{127}_{53}\text{I}$  [N = 127 − 53 = 74]{.fragment}  
+- ${}^{197}_{79}\text{Au}$  [N = 197 − 79 = 118]{.fragment}  
+
+::::
+
+:::: column
+
+- ${}^{139}_{57}\text{La}$  [N = 139 − 57 = 82]{.fragment}  
+- ${}^{140}_{58}\text{Ce}$  [N = 140 − 58 = 82]{.fragment}  
+- ${}^{141}_{59}\text{Pr}$  [N = 141 − 59 = 82]{.fragment}  
+- ${}^{144}_{60}\text{Nd}$  [N = 144 − 60 = 84]{.fragment}  
+- ${}^{151}_{63}\text{Eu}$  [N = 151 − 63 = 88]{.fragment}  
+- ${}^{238}_{92}\text{U}$  [N = 238 − 92 = 146]{.fragment}  
+- ${}^{239}_{94}\text{Pu}$  [N = 239 − 94 = 145]{.fragment}  
+- ${}^{244}_{96}\text{Cm}$  [N = 244 − 96 = 148]{.fragment}  
+- ${}^{252}_{98}\text{Cf}$  [N = 252 − 98 = 154]{.fragment}  
+
+::::
+:::
+
+---
+
+## Erinnerung: Chemische Reaktionen (für den Vergleich mit Kernprozessen) {.smaller background-color="aquamarine"}
+
+- **Was passiert?**
+  - Es ändern sich **Elektronenhüllen und Bindungen**.
+  - **Atomkerne bleiben unverändert** → kein Elementumwandeln.
+
+- **Schreibweise & Symbole**
+  - **Edukte → Produkte** (Reaktionspfeil bedeutet „reagieren zu“)
+  - **+** bedeutet „und / zusammen mit“
+  - **Koeffizienten** (Zahlen vor Formeln) gleichen die Gleichung aus
+  - **Zustandsangaben** optional: (s), (l), (g), (aq)
+  - **Energie/Katalysator** ggf. **über dem Pfeil** (z. B. Δ für Wärme)
+
+---
+
+## Erinnerung: Chemische Reaktionen (für den Vergleich mit Kernprozessen) {.smaller background-color="aquamarine"}
+
+- **Erhaltungsgrößen**
+  - **Stoff-/Massenerhaltung:** Von jeder **Atomsorte** sind vorher und nachher gleich viele vorhanden.
+  - **Ladungserhaltung** (wichtig bei Ionenreaktionen).
+
+- **Beispiele (ausgeglichen)**
+  - CH₄ + 2 O₂ → CO₂ + 2 H₂O  (Verbrennung)
+  - 2 H₂ + O₂ → 2 H₂O
+
+- **Warum wichtig für Kernphysik?**
+  - In der Chemie ändern sich **nur Elektronen** → **Massenzahl/Ordnungszahl** werden **nicht** betrachtet.
+  - Bei **Kernprozessen** dagegen ändern sich Kerne → **Massenzahl/Ordnungszahl** und **Teilchenbilanz** sind entscheidend.
+
+---
+
+## Radioaktiver Zerfall
+
+1. **Erkläre den Begriff spontaner Zerfall**
+  - Nutze Buch S. 34
+  - was ist ein radioaktives Nuklid?
+  - was passiert mit dem radioaktiven Nuklid beim spontanten Zerfall?
+1. **Erläutere drei Arten von Kernstrahlung**
+  - Welches Zerfallsprodukt entsteht dabei jeweils?
+1. **Interpretiere die drei Zerfallsgleichungen unten auf S. 34**
+  - Was fällt dir an den Zahlen auf beiden Seiten auf?
+
+---
+
+## Aufgabe: Halbwertszeit {.smaller}
+
+1. **Erkläre, was die Halbwertszeit eines radioaktiven Nuklids aussagt. **   
+    - nutze Buch S. 35
+    - was passiert bei einem Zerfall mit der Menge des radioaktiven Nuklids?
+1. **Berechne, wie viel von einem *160 g Präparat* nach *4 Halbwertszeiten* noch übrig ist.**  
+1. **Zeichne den Zerfallsgraph. Trage dazu die Wertepaare, die du zuvor berechnet hast ein und verbinde sie. Denk dran, dass eine Exponentialfunktion keine Gerade ist.**  
+
+
+[$N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$]{.fragment}
+
+::: {.incremental}
+- $(t = 0): N(t) = N_0$   
+- $(t = T_{1/2}): N(t) = N_0/2$  
+- $(t = 2⋅T_{1/2}): N(t) = N_0/4$  
+:::
+---
+
+
+
+## Exkursfolie: Exponentielles Zerfallsgesetz {.smaller background-color="yellow"}
+
+Die Aktivität bzw. Anzahl der Kerne nimmt exponentiell ab:
+
+$N(t) = N_0 \cdot e^{-\lambda t}$
+
+wobei für die Zerfallskonstante $\lambda$ und die Halbwertszeit $T_{1/2}$ gilt:
+$\lambda = \frac{\ln 2}{T_{1/2}}$
+
+Eine Exponentialfunktion mit einem negativen Vorzeichen im Exponent erreicht nie die Null. In echt könnte aber tatsächlich irgendwann das letzte Nuklid zerfallen. Dieser Zerfall ist ein stochastisches Ereignis. Betrachtet man viele identische Mengen von radioaktiven Nukliden, so gibt uns die Exponentialfunktion den Erwartungswert für die Anzahl der Kerne im Mittel nach Zeit $t$ an.
+
+
+für die "einfache" Rechnung gilt:
+$N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
+
+
+- $(t = 0): N(t) = N_0$   
+- $(t = T_{1/2}): N(t) = N_0/2$  
+- $(t = 2⋅T_{1/2}): N(t) = N_0/4$  
+
+➡️ Die Substanz halbiert sich nach jeder Halbwertszeit.
+
+
+
+
+
+## Aufgabe: Strahlungseigenschaften 
+
+- **Beschreibe die Eigenschaften von Alpha- und Beta-Teilchen**. 
+  - Nutze Buch S. 36
+  - Welche Ladung tragen sie?  
+  - Wie reagieren sie auf Magnetfelder?  
+- **Erkläre den Begriff ionisierende Strahlung**.  
+  - Nutze Buch S. 36
+  - Was ist Ionisation?
+
+---
+
+## Aufgabe: Strahlenschutz 
+
+- **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle**:
+  - Nutze Buch S. 36 und 37
+
+| Strahlungsart | Eindringtiefe / Reichweite | Geeignete Abschirmung |
+|---------------|----------------------------|------------------------|
+| Alpha         |                            |                        |
+| Beta          |                            |                        |
+| Gamma         |                            |                        |
+
+---
+
+## Künstliche Kernnumwandlung
+
+1. **Erkläre künstliche Kernumwandlungen **
+    - Nutze Buch S.42
+1. **Vergleiche Kernfusion und Kernspaltung**
+    - Nutze Buch S. 43
+    - Wo finden die Prozesse jeweils statt?
+    - Wie unterscheiden sich die Produkte?
+
+
+## Aufgabe: Natürliche Strahlung  {.smaller}
+
+- Vergleiche **terrestrische** und **kosmische Strahlung**.
+  - Nutze das Buch S. 30
+  
+| Kriterium        | Terrestrische Strahlung | Kosmische Strahlung |
+|------------------|-------------------------|---------------------|
+| Herkunft         |                         |                     |
+| Art der Strahlung|                         |                     |
+| Beispiel         |                         |                     |
+
+- Überlege, ob es sich um Kernstrahlung handelt oder nicht.
+
+---
+
+## Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.
+- Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, Isotop, Halbwertszeit
+

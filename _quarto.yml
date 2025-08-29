@@ -1,0 +1,10 @@
+project:
+  type: website
+  resources:
+    - pics/**
+
+
+
+format:
+  revealjs:
+    theme: simple
