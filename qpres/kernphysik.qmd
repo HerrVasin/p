@@ -15,15 +15,16 @@ lang: de
 ---
 
 
-## Lernziele dieser Einheit: danach sind SuS im Stande zu: {.smaller} 
+## Lernziele dieser Einheit - danach sind SuS im Stande zu: {.smaller} 
 
 
 - **definieren**, was Isotope sind
-- **bestimmen**, Protonenzahl, Massenzahl und Neutronenzahl aus der Isotopenschreibweise.  
+- **bestimmen**, was die Kernladungszahl, Massenzahl und Neutronenzahl eines Isotopes sind, der in Symbolschreibweise gegeben ist  
 - **berechnen**, wie sich Zerfallsprozesse (z. B. α- und β-Zerfall) auf die Kernladungs- und Massenzahl auswirken.  
 - **erläutern**, die Bedeutung und das Vorgehen bei der Berechnung von Halbwertszeiten.  
-- **beschreiben** die Grundprinzipien der kün und deren Bedeutung in Natur und Technik.  
+- **beschreiben** die Grundprinzipien der künstlichen Kernspaltung und deren Bedeutung in Natur und Technik.  
 - **erklären**, wie künstliche Zerfallsprozesse herbeigeführt und genutzt werden
+- **erläutern**, wie radioaktive Nuklide angewandt werden können
 
 
 ---
