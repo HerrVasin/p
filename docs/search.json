@@ -102,21 +102,21 @@
     "href": "qpres/kernphysik.html#künstliche-kernnumwandlung",
     "title": "Kernphysik",
     "section": "Künstliche Kernnumwandlung",
-    "text": "Künstliche Kernnumwandlung\n\nErkläre künstliche Kernspaltung \n\nNutze Buch S.42 und 43\nBeachte bei den Beispielen die Zwischenprodukte\n\nErkläre die Kettenreaktion bei Spaltung von Uran-235\nVergleiche Kernfusion und Kernspaltung\n\nNutze Buch S. 43\nWo finden die Prozesse jeweils statt?\nWie unterscheiden sich die Produkte?"
+    "text": "Künstliche Kernnumwandlung\n\nErkläre künstliche Kernumwandlung\n\nNutze Buch S.42 und 43\nBeachte bei den Beispielen die Zwischenprodukte\n\nErkläre die Kettenreaktion bei Spaltung von Uran-235\nVergleiche Kernfusion und Kernspaltung\n\nNutze Buch S. 43\nWo finden die Prozesse jeweils statt?\nWie unterscheiden sich die Produkte?"
   },
   {
     "objectID": "qpres/kernphysik.html#anwendung-radioaktiver-nuklide",
     "href": "qpres/kernphysik.html#anwendung-radioaktiver-nuklide",
     "title": "Kernphysik",
     "section": "Anwendung radioaktiver Nuklide",
-    "text": "Anwendung radioaktiver Nuklide\n\nErläutere eine Anwendung von radioaktiven Nukliden\n\nNutze Buch S. 46\n\nNenne 2 weitere Anwendungsgebiete und Anwendungen"
+    "text": "Anwendung radioaktiver Nuklide\n\nErläutere eine Anwendung von radioaktiven Nukliden\n\nNutze Buch S. 46\n\nNenne 2 weitere Anwendungsgebiete und Anwendungen\n\nNutze Buch S. 50f"
   },
   {
     "objectID": "qpres/kernphysik.html#betrachte-die-begriffe.-kannst-du-sie-erklären-wenn-nicht-schreib-dir-die-unklaren-begriffe-auf.-erkläre-3-begriffe-schriftlich.-nach-5-minuten-tausche-dich-mit-deinem-banknachbarn-aus.",
     "href": "qpres/kernphysik.html#betrachte-die-begriffe.-kannst-du-sie-erklären-wenn-nicht-schreib-dir-die-unklaren-begriffe-auf.-erkläre-3-begriffe-schriftlich.-nach-5-minuten-tausche-dich-mit-deinem-banknachbarn-aus.",
     "title": "Kernphysik",
     "section": "Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.",
-    "text": "Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.\n\nAtomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit"
+    "text": "Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.\n\nAtomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit\n\nDownload Praesi{download}"
   },
   {
     "objectID": "qpres/kernphysik.html#gleichungen",
@@ -124,5 +124,89 @@
     "title": "Kernphysik",
     "section": "Gleichungen",
     "text": "Gleichungen\n\n\\(A=Z+N\\)\n\\(N(t) = N_0 \\cdot \\left(\\frac{1}{2}\\right)^{\\frac{t}{T_{1/2}}}\\)"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-1",
+    "href": "qpres/kernphysik.html#aufgabe-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\nErster dokumentierter künstlicher Kernumwandlungsversuch:\n\\[\n^{14}_{7}\\text{N} + \\alpha \\;\\rightarrow\\; ^{17}_{8}\\text{O} + \\; ?\n\\]\n(Hinweis: hier fehlt ein Proton.)"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-2",
+    "href": "qpres/kernphysik.html#aufgabe-2",
+    "title": "Kernphysik",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\nNeutroneneinfang in Uran-238, gefolgt von zweifacher β⁻-Zerfall:\n\\[\n^{238}_{92}\\text{U} + \\; ? \\;\\rightarrow\\; ^{239}_{92}\\text{U} \\;\\xrightarrow{β^-}\\; ^{239}_{93}\\text{Np} \\;\\xrightarrow{β^-}\\; ^{239}_{94}\\text{Pu}\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-3",
+    "href": "qpres/kernphysik.html#aufgabe-3",
+    "title": "Kernphysik",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\nHerstellung eines transuranen Elements durch Beschuss:\n\\[\n^{242}_{96}\\text{Cm} + \\alpha \\;\\rightarrow\\; ^{?}_{?}\\text{Cf} + \\; ?\n\\]\n(Ziel: Californium; finde passende Massenzahl und Nebenprodukt.)"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-4",
+    "href": "qpres/kernphysik.html#aufgabe-4",
+    "title": "Kernphysik",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\nReduktion radioaktiven Abfalls durch Thorium-Neutron-Transmutation:\n\\[\n^{232}_{90}\\text{Th} + \\; ? \\;\\rightarrow\\; ^{233}_{?}\\text{U}\n\\]\n(Hier soll Uran-233 entstehen.)"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-5",
+    "href": "qpres/kernphysik.html#aufgabe-5",
+    "title": "Kernphysik",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\nAlchemistische Transmutation: Bismut zu Gold (experimentell reproduziert):\n\\[\n^{209}_{83}\\text{Bi} + ^{?}_{?}\\text{X} \\;\\rightarrow\\; ^{197}_{79}\\text{Au} + \\; ?\n\\]\n(Finde Projektil „X“ und Nebenprodukte.)"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-1-1",
+    "href": "qpres/kernphysik.html#aufgabe-1-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 1",
+    "text": "Aufgabe 1\n\\[\n^{14}_{7}\\text{N} + \\alpha \\;\\;\\rightarrow\\;\\; ^{17}_{8}\\text{O} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-2-1",
+    "href": "qpres/kernphysik.html#aufgabe-2-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 2",
+    "text": "Aufgabe 2\n\\[\n^{27}_{13}\\text{Al} + \\alpha \\;\\;\\rightarrow\\;\\; ^{30}_{15}\\text{P} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-3-1",
+    "href": "qpres/kernphysik.html#aufgabe-3-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 3",
+    "text": "Aufgabe 3\n\\[\n^{24}_{12}\\text{Mg} + ^{1}_{1}\\text{p} \\;\\;\\rightarrow\\;\\; ^{25}_{12}\\text{Mg} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-4-1",
+    "href": "qpres/kernphysik.html#aufgabe-4-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 4",
+    "text": "Aufgabe 4\n\\[\n^{59}_{27}\\text{Co} + ^{2}_{1}\\text{H} \\;\\;\\rightarrow\\;\\; ^{60}_{28}\\text{Ni} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-5-1",
+    "href": "qpres/kernphysik.html#aufgabe-5-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe 5",
+    "text": "Aufgabe 5\n\\[\n^{16}_{8}\\text{O} + ^{1}_{1}\\text{p} \\;\\;\\rightarrow\\;\\; ^{13}_{6}\\text{C} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-6",
+    "href": "qpres/kernphysik.html#aufgabe-6",
+    "title": "Kernphysik",
+    "section": "Aufgabe 6",
+    "text": "Aufgabe 6\n\\[\n^{19}_{9}\\text{F} + ^{1}_{0}\\text{n} \\;\\;\\rightarrow\\;\\; ^{16}_{7}\\text{N} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-7",
+    "href": "qpres/kernphysik.html#aufgabe-7",
+    "title": "Kernphysik",
+    "section": "Aufgabe 7",
+    "text": "Aufgabe 7\n\\[\n^{11}_{5}\\text{B} + ^{1}_{1}\\text{p} \\;\\;\\rightarrow\\;\\; ^{8}_{4}\\text{Be} + \\; ?\n\\]"
   }
 ]

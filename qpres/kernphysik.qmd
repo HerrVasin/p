@@ -10,6 +10,7 @@ format:
     slide-number: false
     chalkboard: true
     interactive: true
+    math: mathjax
 lang: de
 
 ---
@@ -261,7 +262,7 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 ## Künstliche Kernnumwandlung
 
-1. **Erkläre künstliche Kernspaltung **
+1. **Erkläre künstliche Kernumwandlung**
     - Nutze Buch S.42 und 43
     - Beachte bei den Beispielen die Zwischenprodukte
 1. **Erkläre die Kettenreaktion bei Spaltung von Uran-235**
@@ -272,20 +273,133 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 ---
 
+Die Summe der Massenzahl der Ausgangstoffe, auch Edukte genannt $A_E$
+
+$$A_E=A_{E1}+A_{E2}+A_{E3}+...$$ 
+muss gleich der Summe der Massenzahl der Reaktionsprodukte sein $A_P$
+$$A_P=A_{P1}+A_{P2}+A_{P3}+...$$ 
+$$A_E=A_P$$
+unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gleiche gilt ebenfalls für die Kernladungszahlen $Z_E$ und $Z_P$
+
+
+---
+
 ## Anwendung radioaktiver Nuklide
 
 1. **Erläutere eine Anwendung von radioaktiven Nukliden**
     - Nutze Buch S. 46
 1. **Nenne 2 weitere Anwendungsgebiete und Anwendungen**
+    - Nutze Buch S. 50f
 
 ---
 
 ## Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.
 - Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit
 
+[Download Praesi](https://github.com/HerrVasin/p/raw/main/docs/Kernkraft.html){download}
 
 ---
+
 ## Gleichungen
 
 - $A=Z+N$
 - $N(t) = N_0 \cdot \left(\frac{1}{2}\right)^{\frac{t}{T_{1/2}}}$
+
+---
+
+## Aufgabe 1  
+Erster dokumentierter künstlicher Kernumwandlungsversuch:  
+$$
+^{14}_{7}\text{N} + \alpha \;\rightarrow\; ^{17}_{8}\text{O} + \; ?
+$$  
+(**Hinweis**: hier fehlt ein Proton.)
+
+---
+
+## Aufgabe 2  
+Neutroneneinfang in Uran-238, gefolgt von zweifacher β⁻-Zerfall:  
+$$
+^{238}_{92}\text{U} + \; ? \;\rightarrow\; ^{239}_{92}\text{U} \;\xrightarrow{β^-}\; ^{239}_{93}\text{Np} \;\xrightarrow{β^-}\; ^{239}_{94}\text{Pu}
+$$
+
+---
+
+## Aufgabe 3  
+Herstellung eines transuranen Elements durch Beschuss:  
+$$
+^{242}_{96}\text{Cm} + \alpha \;\rightarrow\; ^{?}_{?}\text{Cf} + \; ?
+$$  
+*(Ziel: Californium; finde passende Massenzahl und Nebenprodukt.)*
+
+---
+
+## Aufgabe 4  
+Reduktion radioaktiven Abfalls durch Thorium-Neutron-Transmutation:  
+$$
+^{232}_{90}\text{Th} + \; ? \;\rightarrow\; ^{233}_{?}\text{U}
+$$  
+*(Hier soll Uran-233 entstehen.)*
+
+---
+
+## Aufgabe 5  
+Alchemistische Transmutation: Bismut zu Gold (experimentell reproduziert):  
+$$
+^{209}_{83}\text{Bi} + ^{?}_{?}\text{X} \;\rightarrow\; ^{197}_{79}\text{Au} + \; ?
+$$  
+*(Finde Projektil „X“ und Nebenprodukte.)*
+
+---
+
+## Aufgabe 1
+$$
+^{14}_{7}\text{N} + \alpha \;\;\rightarrow\;\; ^{17}_{8}\text{O} + \; ?
+$$
+
+---
+
+## Aufgabe 2
+$$
+^{27}_{13}\text{Al} + \alpha \;\;\rightarrow\;\; ^{30}_{15}\text{P} + \; ?
+$$
+
+---
+
+## Aufgabe 3
+$$
+^{24}_{12}\text{Mg} + ^{1}_{1}\text{p} \;\;\rightarrow\;\; ^{25}_{12}\text{Mg} + \; ?
+$$
+
+---
+
+## Aufgabe 4
+$$
+^{59}_{27}\text{Co} + ^{2}_{1}\text{H} \;\;\rightarrow\;\; ^{60}_{28}\text{Ni} + \; ?
+$$
+
+---
+
+## Aufgabe 5
+$$
+^{16}_{8}\text{O} + ^{1}_{1}\text{p} \;\;\rightarrow\;\; ^{13}_{6}\text{C} + \; ?
+$$
+
+---
+
+## Aufgabe 6
+$$
+^{19}_{9}\text{F} + ^{1}_{0}\text{n} \;\;\rightarrow\;\; ^{16}_{7}\text{N} + \; ?
+$$
+
+---
+
+## Aufgabe 7
+$$
+^{11}_{5}\text{B} + ^{1}_{1}\text{p} \;\;\rightarrow\;\; ^{8}_{4}\text{Be} + \; ?
+$$
+
+---
+
+
+
+
