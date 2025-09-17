@@ -1,0 +1,71 @@
+---
+title: "Protokoll"
+format: pdf
+
+lang: de
+editor: visual
+---
+
+## **Thema:** Würfelexperiment zum exponentiellen Zerfall
+
+------------------------------------------------------------------------
+
+## Hinweise zur Gruppenarbeit
+
+-   Legt zu Beginn Rollen fest und tragt die Namen ins Protokoll ein:
+    -   **Protokollführer/in** – notiert Ergebnisse und Antworten.\
+    -   **ChatGPT-Verantwortliche/r** – darf das Handy nutzen, aber nur Fragen eintippen, die die Gruppe gemeinsam formuliert und aufgeschrieben hat
+    -   **Moderator** - Leitet das Gespräch der Gruppe
+    -   **Beobachter/in** – achtet auf sorgfältige Durchführung, Ergebnisse und Diagramme.
+
+------------------------------------------------------------------------
+
+## 1. Vorbetrachtungen
+
+1.  Mit welcher Wahrscheinlichkeit zeigt ein Würfel beim Wurf eine **6**?\
+2.  Mit welcher Wahrscheinlichkeit zeigt ein Würfel **keine 6**?\
+3.  Wie viele Sechsen werden bei $N_0$ Würfeln im ersten Wurf *erwartet*?\
+4.  Wie viele Würfel bleiben nach dem ersten Wurf im Durchschnitt übrig?
+
+------------------------------------------------------------------------
+
+## 2. Durchführung des Experiments
+
+1.  Würfelt gleichzeitig mit allen Würfeln
+2.  Entfernt nach jedem Wurf alle Sechsen.\
+3.  Zählt und notiert die Zahl der übrig gebliebenen Würfel.\
+4.  Wiederholt das Würfeln mit den verbleibenden Würfeln so lange, bis eine Sechs übrig ist.\
+5.  Tragt die Ergebnisse in eine Tabelle ein
+
+**Aufgaben während der Durchführung**\
+- Führt eine Tabelle mit Wurfnummer und Anzahl der verbliebenen Würfel.
+
+------------------------------------------------------------------------
+
+## 3. Auswertung und Nachbereitung
+
+-   Zeichnet die Messpunkte ins Koordinatensystem. (x-Achse = Wurfnummer, y-Achse = Anzahl Würfel).
+
+### Vergleich mit Theorie
+
+1.  Ergänzt in euer Diagramm die theoretische Kurve\
+    $$   N(n) = N_0 \cdot \left(\tfrac{5}{6}\right)^n $$
+2.  Vergleicht die gemessenen Werte mit der Kurve.
+
+------------------------------------------------------------------------
+
+### Halbwertszeit im Experiment
+
+1.  Lies aus dem Diagramm ab: Nach wie vielen Würfen ist die Anzahl der Würfel ungefähr halbiert?\
+2.  Notiere diese Zeit als „Halbwertszeit“ $T_{1/2}$.Falls in deinem Experiment die Anzahl der Würfel nicht halbiert wurde, was schätzst du wäre die Halbwertszeit geworden? (Nächste Wurf? Übernächster Wurf?)\
+3.  Überprüfe: Nach derselben Anzahl weiterer Würfe – wie viele Würfel bleiben übrig? (Viertel?)\
+4.  Wiederhole für ein Achtel.
+
+------------------------------------------------------------------------
+
+## 4. Reflexion
+
+-   Welche Parallelen gibt es zwischen dem Würfelexperiment und dem radioaktiven Zerfall?\
+-   Welche Unterschiede?\
+-   Wie würde sich das Experiment ändern, wenn man statt der **6** eine andere Augenzahl herausnimmt?\
+-   Warum würde sich in echt sofort ein Verlauf einstellen, der der idealen Kurve entspricht, bei uns kommt es aber zu starken Abweichungen von der Kurve

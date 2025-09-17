@@ -178,12 +178,32 @@ Formel: `N = A - Z`.
 
 ---
 
+## Regeln für die Kennzahlen beim  radioaktiven Zerfall {.smaller}
+
+Bei einem Zerfallsprozess entstehen aus Ausgangstoffen, auch Edukte genannt, unter Aussendung von radioaktiver Strahlung Zerfallsprodukte.
+
+Bei einem Zerfall muss die Summe der Massenzahlen der Edukte $A_E=A_{E1}+A_{E2}+A_{E3}+...$
+
+gleich der Summe der Massenzahlen der Produkte sein $A_P=A_{P1}+A_{P2}+A_{P3}+...$
+
+$$A_{E1}+A_{E2}+A_{E3}+...=A_{P1}+A_{P2}+A_{P3}+...$$
+$$A_E=A_P$$
+unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gleiche gilt ebenfalls für die Summe der Kernladungszahlen der Edukte $Z_E$ und der Kernladungszahlen der Produkte $Z_P$
+$$Z_E=Z_P$$
+
+---
+
 ## Radioaktiver Zerfall
 
 1. **Erkläre den Begriff spontaner Zerfall**
   - Nutze Buch S. 34
   - was ist ein radioaktives Nuklid?
   - was passiert mit dem radioaktiven Nuklid beim spontanten Zerfall?
+  
+---
+
+## Radioaktriver Zerfall
+
 1. **Erläutere drei Arten von Kernstrahlung**
   - Welches Zerfallsprodukt entsteht dabei jeweils?
 1. **Interpretiere die drei Zerfallsgleichungen unten auf S. 34**
@@ -246,6 +266,15 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 ---
 
+## Aufgabe: Strahlungseigenschaften {.smaller}
+
+1. **Erkläre warum radioaktive Strahlung gefährlich für Menschen ist**
+Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderungen in den Körperzellen von Lebewesen hervorrufen kann. Die Lebewesen können zwar geschädigte Zelle erkennen, aussondern oder reparieren, aber wenn zu viele Zellen geschädigt sind, kann der Schaden zu gesundheitsgefährdenden Folgen führen. 
+    
+
+---
+
+
 ## Aufgabe: Strahlenschutz {.smaller}
 
 
@@ -273,16 +302,7 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 ---
 
-Die Summe der Massenzahl der Ausgangstoffe, auch Edukte genannt $A_E$
 
-$$A_E=A_{E1}+A_{E2}+A_{E3}+...$$ 
-muss gleich der Summe der Massenzahl der Reaktionsprodukte sein $A_P$
-$$A_P=A_{P1}+A_{P2}+A_{P3}+...$$ 
-$$A_E=A_P$$
-unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gleiche gilt ebenfalls für die Kernladungszahlen $Z_E$ und $Z_P$
-
-
----
 
 ## Anwendung radioaktiver Nuklide
 

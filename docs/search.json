@@ -67,7 +67,7 @@
     "href": "qpres/kernphysik.html#radioaktiver-zerfall",
     "title": "Kernphysik",
     "section": "Radioaktiver Zerfall",
-    "text": "Radioaktiver Zerfall\n\nErkläre den Begriff spontaner Zerfall\n\n\nNutze Buch S. 34\nwas ist ein radioaktives Nuklid?\nwas passiert mit dem radioaktiven Nuklid beim spontanten Zerfall?\n\n\nErläutere drei Arten von Kernstrahlung\n\n\nWelches Zerfallsprodukt entsteht dabei jeweils?\n\n\nInterpretiere die drei Zerfallsgleichungen unten auf S. 34\n\n\nWas fällt dir an den Zahlen auf beiden Seiten auf?"
+    "text": "Radioaktiver Zerfall\n\nErkläre den Begriff spontaner Zerfall\n\n\nNutze Buch S. 34\nwas ist ein radioaktives Nuklid?\nwas passiert mit dem radioaktiven Nuklid beim spontanten Zerfall?"
   },
   {
     "objectID": "qpres/kernphysik.html#aufgabe-halbwertszeit",
@@ -208,5 +208,75 @@
     "title": "Kernphysik",
     "section": "Aufgabe 7",
     "text": "Aufgabe 7\n\\[\n^{11}_{5}\\text{B} + ^{1}_{1}\\text{p} \\;\\;\\rightarrow\\;\\; ^{8}_{4}\\text{Be} + \\; ?\n\\]"
+  },
+  {
+    "objectID": "würfelexp.html",
+    "href": "würfelexp.html",
+    "title": "",
+    "section": "",
+    "text": "format: html\nlang: de editor: visual —"
+  },
+  {
+    "objectID": "würfelexp.html#hinweise-zur-gruppenarbeit",
+    "href": "würfelexp.html#hinweise-zur-gruppenarbeit",
+    "title": "Protokoll",
+    "section": "Hinweise zur Gruppenarbeit",
+    "text": "Hinweise zur Gruppenarbeit\n\nLegt zu Beginn Rollen fest und tragt die Namen ins Protokoll ein:\n\nProtokollführer/in – notiert Ergebnisse und Antworten.\n\nChatGPT-Verantwortliche/r – darf das Handy nutzen, aber nur Fragen eintippen, die die Gruppe gemeinsam formuliert und aufgeschrieben hat\nModerator - Leitet das Gespräch der Gruppe\nBeobachter/in – achtet auf sorgfältige Durchführung, Ergebnisse und Diagramme."
+  },
+  {
+    "objectID": "würfelexp.html#vorbetrachtungen",
+    "href": "würfelexp.html#vorbetrachtungen",
+    "title": "Protokoll",
+    "section": "1. Vorbetrachtungen",
+    "text": "1. Vorbetrachtungen\n\nMit welcher Wahrscheinlichkeit zeigt ein Würfel beim Wurf eine 6?\n\nMit welcher Wahrscheinlichkeit zeigt ein Würfel keine 6?\n\nWie viele Sechsen werden bei \\(N_0\\) Würfeln im ersten Wurf erwartet?\n\nWie viele Würfel bleiben nach dem ersten Wurf im Durchschnitt übrig?"
+  },
+  {
+    "objectID": "würfelexp.html#durchführung-des-experiments",
+    "href": "würfelexp.html#durchführung-des-experiments",
+    "title": "Protokoll",
+    "section": "2. Durchführung des Experiments",
+    "text": "2. Durchführung des Experiments\n\nWürfelt gleichzeitig mit allen Würfeln\nEntfernt nach jedem Wurf alle Sechsen.\n\nZählt und notiert die Zahl der übrig gebliebenen Würfel.\n\nWiederholt das Würfeln mit den verbleibenden Würfeln so lange, bis eine Sechs übrig ist.\n\nTragt die Ergebnisse in eine Tabelle ein\n\nAufgaben während der Durchführung\n- Führt eine Tabelle mit Wurfnummer und Anzahl der verbliebenen Würfel."
+  },
+  {
+    "objectID": "würfelexp.html#auswertung-und-nachbereitung",
+    "href": "würfelexp.html#auswertung-und-nachbereitung",
+    "title": "Protokoll",
+    "section": "3. Auswertung und Nachbereitung",
+    "text": "3. Auswertung und Nachbereitung\n\nZeichnet die Messpunkte ins Koordinatensystem. (x-Achse = Wurfnummer, y-Achse = Anzahl Würfel).\n\n\nVergleich mit Theorie\n\nErgänzt in euer Diagramm die theoretische Kurve\n\\[   N(n) = N_0 \\cdot \\left(\\tfrac{5}{6}\\right)^n \\]\nVergleicht die gemessenen Werte mit der Kurve.\n\n\n\n\nHalbwertszeit im Experiment\n\nLies aus dem Diagramm ab: Nach wie vielen Würfen ist die Anzahl der Würfel ungefähr halbiert?\n\nNotiere diese Zeit als „Halbwertszeit“ \\(T_{1/2}\\).\n\nÜberprüfe: Nach derselben Anzahl weiterer Würfe – wie viele Würfel bleiben übrig? (Viertel?)\n\nWiederhole für ein Achtel."
+  },
+  {
+    "objectID": "würfelexp.html#reflexion",
+    "href": "würfelexp.html#reflexion",
+    "title": "Protokoll",
+    "section": "4. Reflexion",
+    "text": "4. Reflexion\n\nWelche Parallelen gibt es zwischen dem Würfelexperiment und dem radioaktiven Zerfall?\n\nWelche Unterschiede?\n\nWie würde sich das Experiment ändern, wenn man statt der 6 eine andere Augenzahl herausnimmt?\n\nWarum würde sich in echt sofort ein Verlauf einstellen, der der idealen Kurve entspricht, bei uns kommt es aber zu starken Abweichungen von der Kurve"
+  },
+  {
+    "objectID": "würfelexp.html#thema-würfelexperiment-zum-exponentiellen-zerfall",
+    "href": "würfelexp.html#thema-würfelexperiment-zum-exponentiellen-zerfall",
+    "title": "",
+    "section": "Thema: Würfelexperiment zum exponentiellen Zerfall",
+    "text": "Thema: Würfelexperiment zum exponentiellen Zerfall"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#radioaktriver-zerfall",
+    "href": "qpres/kernphysik.html#radioaktriver-zerfall",
+    "title": "Kernphysik",
+    "section": "Radioaktriver Zerfall",
+    "text": "Radioaktriver Zerfall\n\nErläutere drei Arten von Kernstrahlung\n\n\nWelches Zerfallsprodukt entsteht dabei jeweils?\n\n\nInterpretiere die drei Zerfallsgleichungen unten auf S. 34\n\n\nWas fällt dir an den Zahlen auf beiden Seiten auf?"
+  },
+  {
+    "objectID": "qpres/kernphysik.html#aufgabe-strahlungseigenschaften-1",
+    "href": "qpres/kernphysik.html#aufgabe-strahlungseigenschaften-1",
+    "title": "Kernphysik",
+    "section": "Aufgabe: Strahlungseigenschaften",
+    "text": "Aufgabe: Strahlungseigenschaften\n\nErkläre warum radioaktive Strahlung gefährlich für Menschen ist Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderungen in den Körperzellen von Lebewesen hervorrufen kann. Die Lebewesen können zwar geschädigte Zelle erkennen, aussondern oder reparieren, aber wenn zu viele Zellen geschädigt sind, kann der Schaden zu gesundheitsgefährdenden Folgen führen."
+  },
+  {
+    "objectID": "qpres/kernphysik.html#regeln-für-die-kennzahlen-beim-radioaktiven-zerfall",
+    "href": "qpres/kernphysik.html#regeln-für-die-kennzahlen-beim-radioaktiven-zerfall",
+    "title": "Kernphysik",
+    "section": "Regeln für die Kennzahlen beim radioaktiven Zerfall",
+    "text": "Regeln für die Kennzahlen beim radioaktiven Zerfall\nBei einem Zerfallsprozess entstehen aus Ausgangstoffen, auch Edukte genannt, unter Aussendung von radioaktiver Strahlung Zerfallsprodukte.\nBei einem Zerfall muss die Summe der Massenzahlen der Edukte \\(A_E=A_{E1}+A_{E2}+A_{E3}+...\\)\ngleich der Summe der Massenzahlen der Produkte sein \\(A_P=A_{P1}+A_{P2}+A_{P3}+...\\)\n\\[A_{E1}+A_{E2}+A_{E3}+...=A_{P1}+A_{P2}+A_{P3}+...\\] \\[A_E=A_P\\] unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gleiche gilt ebenfalls für die Summe der Kernladungszahlen der Edukte \\(Z_E\\) und der Kernladungszahlen der Produkte \\(Z_P\\) \\[Z_E=Z_P\\]"
   }
 ]
