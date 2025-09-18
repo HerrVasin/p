@@ -54,10 +54,7 @@ lang: de
   - Welche Ladung haben diese Teilchen?  
   - Warum ist ein Atom nach außen elektrisch neutral?  
 
-
 ---
-
-
 
 
 ## Aufgabe: Isotope und Zahlenwerte 
@@ -178,6 +175,13 @@ Formel: `N = A - Z`.
 
 ---
 
+## Wiederholung 
+
+1. Unterscheide die Isotope von Blei ${}^{208}_{82}\text{Pb}$ und ${}^{209}_{82}\text{Pb}$ (Nutze dazu die Fachbegriffe, die wir schon kennengerlent haben). Nutze ebenfalls die Nuklidkarte auf Seite 67 des Tafelwerks
+
+1. Diskutiere mit deinem Banknachbarn warum man Isotope unterscheidet, obwohl sie die gleichen chemischen Eigenschaften aufweisen.
+---
+
 ## Regeln für die Kennzahlen beim  radioaktiven Zerfall {.smaller}
 
 Bei einem Zerfallsprozess entstehen aus Ausgangstoffen, auch Edukte genannt, unter Aussendung von radioaktiver Strahlung Zerfallsprodukte.
@@ -190,6 +194,49 @@ $$A_{E1}+A_{E2}+A_{E3}+...=A_{P1}+A_{P2}+A_{P3}+...$$
 $$A_E=A_P$$
 unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gleiche gilt ebenfalls für die Summe der Kernladungszahlen der Edukte $Z_E$ und der Kernladungszahlen der Produkte $Z_P$
 $$Z_E=Z_P$$
+
+---
+
+## Regeln für die Kennzahlen beim  radioaktiven Zerfall {.smaller}
+
+1. **Erläutere am beispiel des Zerfallsgleichungen auf Seite 34 was die nachfolgenden Gleichungen mit Zerfallsprozessen und Radioaktivität zu tun haben**
+
+Bei einem Zerfall muss die Summe der Massenzahlen der Edukte $A_E=A_{E1}+A_{E2}+A_{E3}+...$
+
+gleich der Summe der Massenzahlen der Produkte sein $A_P=A_{P1}+A_{P2}+A_{P3}+...$
+
+$$A_{E1}+A_{E2}+A_{E3}+...=A_{P1}+A_{P2}+A_{P3}+...$$
+$$A_E=A_P$$
+unabhängig davon, ob die Anzahl der Edukte oder Produkte gleich ist. Das gilt ebenfalls für die Summen der Kernladungszahlen  $Z_E$ und  $Z_P$
+$$Z_E=Z_P$$
+
+
+---
+
+## Berechne die folgenden Zerfallsprodukte
+α-Zerfall (Beispiel: Uran-238)
+$$
+{}^{238}_{92}\mathrm{U} \;\;\longrightarrow\;\; {}^{?}_{?}\mathrm{?} \;+\; \alpha
+$$
+
+ β⁻-Zerfall (Beispiel: Blei-210)
+$$
+{}^{210}_{82}\mathrm{Pb} \;\;\longrightarrow\;\; {}^{?}_{?}\mathrm{?} \;+\; \beta
+$$
+
+---
+
+## Berechne die folgenden Zerfallsprodukte
+α-Zerfall (Beispiel: Uran-238)
+$$
+{}^{238}_{92}\mathrm{U} \;\;\longrightarrow\;\; {}^{234}_{90}\mathrm{Th} \;+\; {}^{4}_{2}\mathrm{He}
+$$
+
+ β⁻-Zerfall (Beispiel: Blei-210)
+$$
+{}^{210}_{82}\mathrm{Pb} \;\;\longrightarrow\;\; {}^{210}_{83}\mathrm{Bi} \;+\; {}^{0}_{-1}\beta
+$$
+
 
 ---
 
@@ -224,6 +271,51 @@ $$Z_E=Z_P$$
 
 ---
 
+## Halbwertszeit
+
+
+$$N(t) = N_0 \cdot \left(\frac{1}{2}\right)^{\frac{t}{T_{1/2}}}$$
+
+**1. Erläutere anhand der Gleichung die Halbwertszeit $T_{1/2}$**
+
+
+
+---
+
+**1. Erläutere anhand der Gleichung die Halbwertszeit $T_{1/2}$**
+
+Die Halbwertszeit gibt an, wann sich die Stoffmenge um die Hälfte reduziert hat. In der Gleichung wird die Stoffmenge $N_0$ immer wieder halbiert. Wie oft die Stoffmenge halbiert, bestimmt der Exponent, der sich aus dem Quotient der Zeit und der Halbwertszeiten der im Exponenten steht. 
+
+---
+
+## Übung Halbwertszeit {.smaller}
+
+S. 38 Übung 11 für Lanthan-147
+
+---
+
+## Übung Halbwertszeit {.smaller}
+
+S. 38 Übung 11 für Lanthan-147
+
+geg.: $t$=8s 
+
+$T_{1/2}$=4s
+
+$N_0$=10g
+
+
+
+ges.: $N$
+
+Ansatz: $$N(t) = N_0 \cdot \left(\frac{1}{2}\right)^{\frac{t}{T_{1/2}}}$$
+
+Exponent Berechnung für den Taschenrechner: $\frac{t}{T_{1/2}}=\frac{8s}{4s}=2$
+
+$N=10\text{g}\cdot0,5^2$=2,5g
+
+---
+
 
 
 ## Exkursfolie: Exponentielles Zerfallsgesetz {.smaller background-color="yellow"}
@@ -249,7 +341,7 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 ➡️ Die Substanz halbiert sich nach jeder Halbwertszeit.
 
 
-
+---
 
 
 ## Aufgabe: Strahlungseigenschaften {.smaller}
@@ -258,10 +350,9 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
     - Nutze Buch Seite 37
     - Was passiert mit Körperzellen, wenn sie von radioaktiver Strahlung getroffen werden?
     - Was kann der Körper unternehmen, wenn Schäden durch radioaktive Strahlung entstehen?
-1. **Nenne welche Folgen zu viel Strahlung für den Menschen haben kann**
+1. **Nenne die Folgen, die auftreten können, wenn ein Mensch zu viel Strahlung ausgesetzt ist**
     - S. 37
-1. **Beschreibe die drei wichtigsten Schutzmaßnahmen gegen Strahlung**
-    - S. 37
+
     
 
 ---
@@ -269,8 +360,14 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 ## Aufgabe: Strahlungseigenschaften {.smaller}
 
 1. **Erkläre warum radioaktive Strahlung gefährlich für Menschen ist**
-Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderungen in den Körperzellen von Lebewesen hervorrufen kann. Die Lebewesen können zwar geschädigte Zelle erkennen, aussondern oder reparieren, aber wenn zu viele Zellen geschädigt sind, kann der Schaden zu gesundheitsgefährdenden Folgen führen. 
-    
+
+Radioaktive Strahlung ist gefährlich für den Menschen, weil sie Veränderungen in den Körperzellen von Lebewesen hervorrufen kann. Die Lebewesen können zwar geschädigte Zelle erkennen, aussondern oder reparieren, aber wenn zu viele Zellen geschädigt sind, kann der Schaden zu gesundheitsgefährdenden Folgen führen. 
+
+1. Nenne 
+
+Erbschäden, Krebs, akute Strahlenerkrankung
+
+
 
 ---
 
@@ -287,6 +384,20 @@ Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderunge
 | Beta          | wenige mm/wenige Meter     |                        |
 | Gamma         | extrem/100+ Meter          |schweres Metall (Blei)  |
 
+1. **Beschreibe die drei wichtigsten Schutzmaßnahmen gegen Strahlung**
+    - S. 37
+---
+
+1. **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle:** 
+    - Nutze Buch S. 36 
+
+| Strahlungsart | Eindringtiefe / Reichweite | Geeignete Abschirmung |
+|---------------|----------------------------|------------------------|
+| Alpha         |     fast null       /wenige cm                |     Blatt                   |
+| Beta          | wenige mm/wenige Meter     |          Schutzanzug              |
+| Gamma         | extrem/100+ Meter          |schweres Metall (Blei)  |
+
+
 ---
 
 ## Künstliche Kernnumwandlung
@@ -294,7 +405,9 @@ Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderunge
 1. **Erkläre künstliche Kernumwandlung**
     - Nutze Buch S.42 und 43
     - Beachte bei den Beispielen die Zwischenprodukte
+    
 1. **Erkläre die Kettenreaktion bei Spaltung von Uran-235**
+
 1. **Vergleiche Kernfusion und Kernspaltung**
     - Nutze Buch S. 43
     - Wo finden die Prozesse jeweils statt?
@@ -314,7 +427,7 @@ Radioaktive Strahlubng ist gefährlich für den Menschen, weil sie Veränderunge
 ---
 
 ## Betrachte die Begriffe. Kannst du sie erklären? Wenn nicht, schreib dir die unklaren Begriffe auf. Erkläre 3 Begriffe schriftlich. Nach 5 Minuten tausche dich mit deinem Banknachbarn aus.
-- Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit
+  - Atomkern, Atomhülle, Proton, Neutron, Elektron, Nuklid, Nukleon, Massenzahl, Atommasse, Kernladungszahl, Ordnungszahl, radioaktives Nuklid, spontaner Zerfall, Isotop, Halbwertszeit
 
 [Download Praesi](https://github.com/HerrVasin/p/raw/main/docs/Kernkraft.html){download}
 
