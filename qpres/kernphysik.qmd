@@ -363,9 +363,9 @@ $N(t) = N_0 \cdot \left(\tfrac{1}{2}\right)^{t/T_{1/2}}$
 
 Radioaktive Strahlung ist gefährlich für den Menschen, weil sie Veränderungen in den Körperzellen von Lebewesen hervorrufen kann. Die Lebewesen können zwar geschädigte Zelle erkennen, aussondern oder reparieren, aber wenn zu viele Zellen geschädigt sind, kann der Schaden zu gesundheitsgefährdenden Folgen führen. 
 
-1. Nenne 
+1. **Nenne die Folgen, die auftreten können, wenn ein Mensch zu viel Strahlung ausgesetzt ist**
 
-Erbschäden, Krebs, akute Strahlenerkrankung
+Erbschäden, Krebs, akute Strahlenerkrankung, Tod
 
 
 
@@ -375,7 +375,7 @@ Erbschäden, Krebs, akute Strahlenerkrankung
 ## Aufgabe: Strahlenschutz {.smaller}
 
 
-1. **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle:** 
+1. **Vergleiche die drei Strahlungsarten. Vervollständige dazu die unten stehende Tabelle:** 
     - Nutze Buch S. 36 
 
 | Strahlungsart | Eindringtiefe / Reichweite | Geeignete Abschirmung |
@@ -388,7 +388,7 @@ Erbschäden, Krebs, akute Strahlenerkrankung
     - S. 37
 ---
 
-1. **Vergleiche die drei Strahlungsarten. Verfolständige dazu die unten stehende Tabelle:** 
+1. **Vergleiche die drei Strahlungsarten. Vervollständige dazu die unten stehende Tabelle:** 
     - Nutze Buch S. 36 
 
 | Strahlungsart | Eindringtiefe / Reichweite | Geeignete Abschirmung |
